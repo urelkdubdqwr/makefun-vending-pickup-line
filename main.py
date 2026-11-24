@@ -1,3 +1,4 @@
+# This entry text fits the competition's 200-character cap.
 import os
 import sys
 
